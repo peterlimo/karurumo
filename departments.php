@@ -146,7 +146,7 @@
         <!-- End Sidebar Modal -->
 
         <!--Start Page Banner-->
-        <div class="page-banner-area bg-1">
+        <div class="page-banner-area" style="background-color:#ffffff">
             <div class="container">
                 <div class="page-banner-content">
                     <h1>Departments</h1>
