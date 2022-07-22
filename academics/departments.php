@@ -31,7 +31,7 @@
         <link rel="stylesheet" href="../assets/css/responsive.css">
 
         <link rel="icon" type="image/png" href="../assets/images/favicon.png">
-        <title>Sanu - College University HTML Template</title>
+        <title>Karumo Technical Training Institute</title>
     </head>
     <body>
         <!-- Start Preloader Area -->
@@ -375,12 +375,8 @@
         <div class="page-banner-area bg-1">
             <div class="container">
                 <div class="page-banner-content">
-                    <h1>Academics</h1>
-                    <ul>
-                        <li><a href="index.html">Home</a></li>
-                        <li>Page</li>
-                        <li>Academics</li>
-                    </ul>
+                    <h1>Departments</h1>
+                  
                 </div>
             </div>
         </div>
@@ -398,9 +394,9 @@
                                         <div class="icon">
                                             <i class="flaticon-pc"></i>
                                         </div>
-                                        <a href="academics-details.html"><h3>Computer Science</h3></a>
+                                        <a href="./department-details.html"><h3>Department of agriculture</h3></a>
                                         <p>Lorem ipsum dolor sit amet ctetur adipiscing elit</p>
-                                        <a href="academics-details.html" class="read-more-btn">Read More<i class="flaticon-next"></i></a>
+                                        <a href="./department-details.html" class="read-more-btn">Read More<i class="flaticon-next"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-sm-6">
@@ -408,9 +404,9 @@
                                         <div class="icon">
                                             <i class="flaticon-art"></i>
                                         </div>
-                                        <a href="academics-details.html"><h3>Art & Design</h3></a>
+                                        <a href="./department-details.html"><h3>Department of electrical and electronics</h3></a>
                                         <p>Lorem ipsum dolor sit amet ctetur adipiscing elit</p>
-                                        <a href="academics-details.html" class="read-more-btn">Read More<i class="flaticon-next"></i></a>
+                                        <a href="./department-details.html" class="read-more-btn">Read More<i class="flaticon-next"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-sm-6">
@@ -418,9 +414,9 @@
                                         <div class="icon">
                                             <i class="flaticon-auction"></i>
                                         </div>
-                                        <a href="academics-details.html"><h3>Law Department</h3></a>
+                                        <a href="./department-details.html"><h3>Department of building and civil engineering</h3></a>
                                         <p>Lorem ipsum dolor sit amet ctetur adipiscing elit</p>
-                                        <a href="academics-details.html" class="read-more-btn">Read More<i class="flaticon-next"></i></a>
+                                        <a href="./department-details.html" class="read-more-btn">Read More<i class="flaticon-next"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-sm-6">
@@ -428,9 +424,9 @@
                                         <div class="icon">
                                             <i class="flaticon-profile"></i>
                                         </div>
-                                        <a href="academics-details.html"><h3>Management Business</h3></a>
+                                        <a href="./department-details.html"><h3>Department of business studies</h3></a>
                                         <p>Lorem ipsum dolor sit amet ctetur adipiscing elit</p>
-                                        <a href="academics-details.html" class="read-more-btn">Read More<i class="flaticon-next"></i></a>
+                                        <a href="./department-details.html" class="read-more-btn">Read More<i class="flaticon-next"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-sm-6">
@@ -438,9 +434,9 @@
                                         <div class="icon">
                                             <i class="flaticon-help"></i>
                                         </div>
-                                        <a href="academics-details.html"><h3>Information Technology</h3></a>
+                                        <a href="./department-details.html"><h3>Information communication technology</h3></a>
                                         <p>Lorem ipsum dolor sit amet ctetur adipiscing elit</p>
-                                        <a href="academics-details.html" class="read-more-btn">Read More<i class="flaticon-next"></i></a>
+                                        <a href="./department-details.html" class="read-more-btn">Read More<i class="flaticon-next"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-sm-6">
@@ -448,9 +444,9 @@
                                         <div class="icon">
                                             <i class="flaticon-heartbeat"></i>
                                         </div>
-                                        <a href="academics-details.html"><h3>Health Care</h3></a>
+                                        <a href="./department-details.html"><h3>Department of institutional management and cosmetology</h3></a>
                                         <p>Lorem ipsum dolor sit amet ctetur adipiscing elit</p>
-                                        <a href="academics-details.html" class="read-more-btn">Read More<i class="flaticon-next"></i></a>
+                                        <a href="./department-details.html" class="read-more-btn">Read More<i class="flaticon-next"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-sm-6">
@@ -460,29 +456,10 @@
                                         </div>
                                         <a href="academics-details.html"><h3>Architecture</h3></a>
                                         <p>Lorem ipsum dolor sit amet ctetur adipiscing elit</p>
-                                        <a href="academics-details.html" class="read-more-btn">Read More<i class="flaticon-next"></i></a>
+                                        <a href="./department-details.html" class="read-more-btn">Read More<i class="flaticon-next"></i></a>
                                     </div>
                                 </div>
-                                <div class="col-lg-4 col-sm-6">
-                                    <div class="single-academics-card3">
-                                        <div class="icon">
-                                            <i class="flaticon-connection"></i>
-                                        </div>
-                                        <a href="academics-details.html"><h3>Engineering</h3></a>
-                                        <p>Lorem ipsum dolor sit amet ctetur adipiscing elit</p>
-                                        <a href="academics-details.html" class="read-more-btn">Read More<i class="flaticon-next"></i></a>
-                                    </div>
-                                </div>
-                                <div class="col-lg-4 col-sm-6">
-                                    <div class="single-academics-card3">
-                                        <div class="icon">
-                                            <i class="flaticon-money-exchange"></i>
-                                        </div>
-                                        <a href="academics-details.html"><h3>Law & Economy</h3></a>
-                                        <p>Lorem ipsum dolor sit amet ctetur adipiscing elit</p>
-                                        <a href="academics-details.html" class="read-more-btn">Read More<i class="flaticon-next"></i></a>
-                                    </div>
-                                </div>
+           
                             </div>
                         </div>
                     </div>
@@ -552,58 +529,71 @@
                 <div class="row">
                     <div class="col-lg-4 col-sm-6">
                         <div class="footer-logo-area">
-                            <a href="index.html"><img src="assets/images/white-logo.png" alt="Image"></a>
-                            <p>Sanu University was established by J.H Merthon in 1810 for the public benefit. Afterwards, it is recognized globally</p>
-                            <div class="contact-list">
+                            <a href="index.html"><img src="assets/images/ktti_logo.png" width="117px" height="110px" alt="Image"></a>
+                            <p>Karumo TTI is a Technical Institute in Tigania West in Meru County. The Institute is at the periphery of Isiolo County, a region with high potential in tourism, industrial, renewable energy potential among others.</p>
+                            <!-- <div class="contact-list">
                                 <ul>
                                     <li><a href="tel:+01987655567685">+01-9876-5556-7685
                                     </a></li>
                                     <li><a href="mailto:admin@sanu.edu">admin@sanu.edu</a></li>
                                 </ul>
-                            </div>
+                            </div> -->
+                            <!-- Karumo Map -->
+
+                <div class="row">
+                    <h3 class="text-white">Location</h3>
+                            <div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="180" id="gmap_canvas" src="https://maps.google.com/maps?q=Katwala,%20Katwala,%20Kisasi,%20Mbitini%20Road,%20Meru&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><style>.gmap_canvas {overflow:hidden;background:none!important;height:180px;width:300px;}</style></div>
+                        </div>
+                </div>
+
                         </div>
                     </div>
                     <div class="col-lg-3 col-sm-6">
                         <div class="footer-widjet">
-                            <h3>Campus Life</h3>
+                            <h3>Quick Links</h3>
                             <div class="list">
                                 <ul>
-                                    <li><a href="campus-life.html">Accessibility</a></li>
-                                    <li><a href="campus-life.html">Financial Aid</a></li>
-                                    <li><a href="campus-life.html">Food Services</a></li>
-                                    <li><a href="campus-life.html">Housing</a></li>
-                                    <li><a href="campus-life.html">Information Technologies</a></li>
-                                    <li><a href="campus-life.html">Student Life</a></li>
+                                    <li><a href="www.helb.com">Helb</a></li>
+                                    <li><a href="campus-life.html">Kuccps</a></li>
+                                    <li><a href="campus-life.html">Our Programmes</a></li>
+                                    <li><a href="campus-life.html">Our History</a></li>
+                                    <li><a href="campus-life.html">Online Application</a></li>
+                                    <li><a href="campus-life.html">Latest News</a></li>
+                                    <li><a href="campus-life.html">School Constitution</a></li>
                                 </ul>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-3 col-sm-6">
                         <div class="footer-widjet">
-                            <h3>Our Campus</h3>
+                            <h3>Student Resources</h3>
                             <div class="list">
                                 <ul>
-                                    <li><a href="campus-life.html">Acedemic</a></li>
-                                    <li><a href="campus-life.html">Planning & Administration</a></li>
-                                    <li><a href="campus-life.html">Campus Safety</a></li>
-                                    <li><a href="campus-life.html">Office of the Chancellor</a></li>
-                                    <li><a href="campus-life.html">Facility Services</a></li>
-                                    <li><a href="campus-life.html">Human Resources</a></li>
+                                    <li><a href="campus-life.html">Student Portal</a></li>
+                                    <li><a href="campus-life.html">Learning Timetables</a></li>
+                                    <li><a href="campus-life.html">E-library</a></li>
+                                    <li><a href="campus-life.html">Dean of Student</a></li>
+                                    <li><a href="campus-life.html">E-Learning Portal</a></li>
+                                    <li><a href="campus-life.html">Exam Timetables</a></li>
                                 </ul>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-2 col-sm-6">
                         <div class="footer-widjet">
-                            <h3>Academics</h3>
+                            <h3>Contact Us</h3>
                             <div class="list">
                                 <ul>
-                                    <li><a href="academics.html">Canvas</a></li>
-                                    <li><a href="academics.html">Catalyst</a></li>
-                                    <li><a href="academics.html">Library</a></li>
-                                    <li><a href="academics.html">Time Schedule</a></li>
-                                    <li><a href="academics.html">Apply For Admissions</a></li>
-                                    <li><a href="academics.html">Pay My Tuition</a></li>
+                                    <li><a href="mailto:karumotti@gmail.com" class="text-white"> Email: karumotti@gmail.com</a></li>
+                                    <li> <a href="academics.html">Tel: +254 705 636443</a></li>
+                                    <li><p class="text-white">P.O BOX 276-60602 KIANJAI</p></li>
+                                    <li><li><p class="text-white">Website: www.karumotti.ac.ke</p></li>
+                                    <li>
+                                        <!-- Social Media Links -->
+                                        <a href="https://www.facebook.com" target="_blank"><i class="ri-facebook-fill"></i></a>&nbsp;
+                                        <a href="https://www.twitter.com" target="_blank"><i class="ri-twitter-fill"></i></a>&nbsp;
+                                        <a href="https://instagram.com/?lang=en" target="_blank"><i class="ri-instagram-line"></i></a>&nbsp;
+                                        <a href="https://linkedin.com/?lang=en" target="_blank"><i class="ri-linkedin-fill"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -622,27 +612,10 @@
                 <div class="copyright">
                     <div class="row">
                         <div class="col-lg-6 col-md-4">
-                            <div class="social-content">
-                                <ul>
-                                    <li><span>Follow Us On</span></li>
-                                    <li>
-                                        <a href="https://www.facebook.com" target="_blank"><i class="ri-facebook-fill"></i></a>
-                                    </li>
-                                    <li>
-                                        <a href="https://www.twitter.com" target="_blank"><i class="ri-twitter-fill"></i></a>
-                                    </li>
-                                    <li>
-                                        <a href="https://instagram.com/?lang=en" target="_blank"><i class="ri-instagram-line"></i></a>
-                                    </li>
-                                    <li>
-                                        <a href="https://linkedin.com/?lang=en" target="_blank"><i class="ri-linkedin-fill"></i></a>
-                                    </li>
-                                </ul>
-                            </div>
                         </div>
-                        <div class="col-lg-6 col-md-8">
-                            <div class="copy">
-                                <p>© Sanu is Proudly Owned by <a href="https://hibootstrap.com/" target="_blank">HiBootstrap</a></p>
+                        <div class="col-lg-6 col-md-8 text-center">
+                            <div class="text-center text-white">
+                                <p class="text-white">© Copyright 2022 KARUMO TTI | ALL RIGHTS RESERVED</p>
                             </div>
                         </div>
                     </div>
