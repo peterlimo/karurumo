@@ -47,11 +47,237 @@
         <!-- End Preloader Area -->
 
         <!--Strat Top Header Area-->
-    <?php require('../header.php'); ?>
+        <div class="top-header-area">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-6 col-md-6">
+                        <div class="header-left-content">
+                            <p>Get the latest updates and Sanu's response to COVID-19</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6">                                        
+                        <div class="header-right-content">
+                            <div class="list">
+                                <ul>
+                                    <li><a href="graduate-admission.html">Students</a></li>
+                                    <li><a href="campus-life.html">Faculty & Staff</a></li>
+                                    <li><a href="admission.html">Visitors</a></li>
+                                    <li><a href="academics.html">Academics</a></li>
+                                    <li><a href="alumni.html">Alumni</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
         <!--End Top Header Area-->
 
         <!-- Start Navbar Area --> 
-       
+        <div class="navbar-area nav-bg-1">
+            <div class="mobile-responsive-nav">
+                <div class="container">
+                    <div class="mobile-responsive-menu">
+                        <div class="logo">
+                            <a href="index.html">
+                                <img src="assets/images/logo.png" class="main-logo" lt="logo">
+                                <img src="assets/images/white-logo.png" class="white-logo" alt="logo">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="desktop-nav">
+                <div class="container">
+                    <nav class="navbar navbar-expand-md navbar-light">
+                        <a class="navbar-brand" href="index.html">
+                            <img src="assets/images/white-logo.png" alt="logo">
+                        </a>
+                        <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
+                            <ul class="navbar-nav ms-auto">
+                                <li class="nav-item">
+                                    <a href="#" class="nav-link dropdown-toggle">
+                                        Home            
+                                    </a>
+                                    <ul class="dropdown-menu">
+                                        <li class="nav-item">
+                                            <a href="index.html" class="nav-link">Home One</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="index-2.html" class="nav-link">Home Two</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="index-3.html" class="nav-link">Home Three</a>
+                                        </li>
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a href="#" class="nav-link dropdown-toggle active">
+                                        Pages 
+                                    </a>
+
+                                    <ul class="dropdown-menu">
+                                        <li class="nav-item">
+                                            <a href="graduate-admission.html" class="nav-link">Graduate Admission</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="campus-life.html" class="nav-link">Campus Life</a>
+                                        </li>
+
+                                        
+
+                                        <li class="nav-item">
+                                            <a href="alumni.html" class="nav-link">Alumni</a>
+                                        </li>
+
+                                        <li class="nav-item">
+                                            <a href="#" class="nav-link dropdown-toggle active">
+                                                Academics 
+                                            </a>
+        
+                                            <ul class="dropdown-menu">
+                                                <li class="nav-item">
+                                                    <a href="academics.html" class="nav-link active">Academics</a>
+                                                </li>
+        
+                                                <li class="nav-item">
+                                                    <a href="academics-details.html" class="nav-link">Academics Details</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+
+                                        <li class="nav-item">
+                                            <a href="#" class="nav-link dropdown-toggle">
+                                                Latest News 
+                                            </a>
+        
+                                            <ul class="dropdown-menu">
+                                                <li class="nav-item">
+                                                    <a href="latest-news.html" class="nav-link">Our Latest News</a>
+                                                </li>
+        
+                                                <li class="nav-item">
+                                                    <a href="news-details.html" class="nav-link">News Details</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        
+                                        <li class="nav-item">
+                                            <a href="faq.html" class="nav-link">FAQ</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="#" class="nav-link dropdown-toggle">
+                                                Users 
+                                            </a>
+        
+                                            <ul class="dropdown-menu">
+                                                <li class="nav-item">
+                                                    <a href="login.html" class="nav-link">Login</a>
+                                                </li>
+        
+                                                <li class="nav-item">
+                                                    <a href="register.html" class="nav-link">Register</a>
+                                                </li>
+
+                                                <li class="nav-item">
+                                                    <a href="recover-password.html" class="nav-link">Recover Password</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="privacy-policy.html" class="nav-link">Privacy Policy</a>
+                                        </li>
+
+                                        <li class="nav-item">
+                                            <a href="terms-conditions.html" class="nav-link">Terms And Conditions</a>
+                                        </li>
+
+                                        <li class="nav-item">
+                                            <a href="coming-soon.html" class="nav-link">Coming Soon</a>
+                                        </li>
+                                        
+                                        <li class="nav-item">
+                                            <a href="404.html" class="nav-link">404 Page</a>
+                                        </li>
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a href="#" class="nav-link dropdown-toggle">
+                                        Courses            
+                                    </a>
+
+                                    <ul class="dropdown-menu">
+                                        <li class="nav-item">
+                                            <a href="courses.html" class="nav-link">Courses</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="courses-details.html" class="nav-link">Courses Details</a>
+                                        </li>                 
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a href="#" class="nav-link dropdown-toggle">
+                                        Health Care  
+                                    </a>
+
+                                    <ul class="dropdown-menu">
+                                        <li class="nav-item">
+                                            <a href="health-care.html" class="nav-link">Health Care</a>
+                                        </li>
+
+                                        <li class="nav-item">
+                                            <a href="health-care-details.html" class="nav-link">Health Care Details</a>
+                                        </li>
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a href="#" class="nav-link dropdown-toggle">
+                                        Events   
+                                    </a>
+
+                                    <ul class="dropdown-menu">
+                                        <li class="nav-item">
+                                            <a href="events.html" class="nav-link">Events</a>
+                                        </li>
+
+                                        <li class="nav-item">
+                                            <a href="events-details.html" class="nav-link">Events Details</a>
+                                        </li>
+                                    </ul>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a href="contact-us.html" class="nav-link">Contact Us</a>
+                                </li>
+                            </ul>
+
+                            <div class="others-options">
+                                <div class="icon">
+                                    <i class="ri-menu-3-fill" data-bs-toggle="modal" data-bs-target="#sidebarModal"></i>
+                                </div>
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+
+            <div class="others-option-for-responsive">
+                <div class="container">
+                    <div class="dot-menu">
+                        <div class="inner">
+                            <div class="icon">
+                                <i class="ri-menu-3-fill" data-bs-toggle="modal" data-bs-target="#sidebarModal"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
         <!-- End Navbar Area -->
 
         <!-- Sidebar Modal -->
@@ -149,8 +375,12 @@
         <div class="page-banner-area bg-1">
             <div class="container">
                 <div class="page-banner-content">
-                    <h1>Karumo e-learning</h1>
-               
+                    <h1>Academics</h1>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li>Page</li>
+                        <li>Academics</li>
+                    </ul>
                 </div>
             </div>
         </div>
@@ -159,16 +389,10 @@
         <!--Start Academics Area-->
         <div class="academics-area pt-100 pb-70">
             <div class="container">
-              <div class="top-content mb-3">
-                <h2>Our E-learning Platform</h2>
-                  <p>Welcome to the KTTC E-Learning, if you are looking for an institution that will enable you improve the lives of others, then KMTC is the place you want to launch your career in any field of question</p>
-                   <p>Enroll in one of the wide range of our courses, from certificate, diploma to higher diploma, reflects the institution’s responsiveness to the needs of our country. The ever-rising interest by Kenyans to study at the College is a demonstration of the trust bestowed on us</p>
-                    </div>
                 <div class="row">
                     <div class="col-lg-9">
                         <div class="academics-left-content">
                             <div class="row justify-content-center">
-                                <h2>Our  Courses</h2>
                                 <div class="col-lg-4 col-sm-6">
                                     <div class="single-academics-card3">
                                         <div class="icon">
@@ -288,6 +512,12 @@
                             <div class="location-type">
                                 <h3>Location Type</h3>
                                 <div class="form-check">
+                                    <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
+                                    <label class="form-check-label" for="flexCheckDefault">
+                                        On Campus
+                                    </label>
+                                </div>
+                                <div class="form-check">
                                     <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked" checked>
                                     <label class="form-check-label" for="flexCheckChecked">
                                         Online
@@ -308,18 +538,6 @@
                                     Undergraduate
                                 </label>
                                 </div>
-                                <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked1" checked>
-                                <label class="form-check-label" for="flexCheckChecked1">
-                                    Diploma
-                                </label>
-                                </div>
-                                <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked1" checked>
-                                <label class="form-check-label" for="flexCheckChecked1">
-                                    Certificate
-                                </label>
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -327,77 +545,65 @@
             </div>
         </div>
         <!--End Academic Area-->
+
         <!--Start Footer Area-->
         <div class="footer-area pt-100 pb-70">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-4 col-sm-6">
                         <div class="footer-logo-area">
-                            <a href="index.html"><img src="assets/images/ktti_logo.png" width="117px" height="110px" alt="Image"></a>
-                            <p>Karumo TTI is a Technical Institute in Tigania West in Meru County. The Institute is at the periphery of Isiolo County, a region with high potential in tourism, industrial, renewable energy potential among others.</p>
-                            <!-- <div class="contact-list">
+                            <a href="index.html"><img src="assets/images/white-logo.png" alt="Image"></a>
+                            <p>Sanu University was established by J.H Merthon in 1810 for the public benefit. Afterwards, it is recognized globally</p>
+                            <div class="contact-list">
                                 <ul>
                                     <li><a href="tel:+01987655567685">+01-9876-5556-7685
                                     </a></li>
                                     <li><a href="mailto:admin@sanu.edu">admin@sanu.edu</a></li>
-                                </ul>
-                            </div> -->
-                            <!-- Karumo Map -->
-
-                <div class="row">
-                    <h3 class="text-white">Location</h3>
-                            <div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="180" id="gmap_canvas" src="https://maps.google.com/maps?q=Katwala,%20Katwala,%20Kisasi,%20Mbitini%20Road,%20Meru&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><style>.gmap_canvas {overflow:hidden;background:none!important;height:180px;width:300px;}</style></div>
-                        </div>
-                </div>
-
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="footer-widjet">
-                            <h3>Quick Links</h3>
-                            <div class="list">
-                                <ul>
-                                    <li><a href="www.helb.com">Helb</a></li>
-                                    <li><a href="campus-life.html">Kuccps</a></li>
-                                    <li><a href="campus-life.html">Our Programmes</a></li>
-                                    <li><a href="campus-life.html">Our History</a></li>
-                                    <li><a href="campus-life.html">Online Application</a></li>
-                                    <li><a href="campus-life.html">Latest News</a></li>
-                                    <li><a href="campus-life.html">School Constitution</a></li>
                                 </ul>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-3 col-sm-6">
                         <div class="footer-widjet">
-                            <h3>Student Resources</h3>
+                            <h3>Campus Life</h3>
                             <div class="list">
                                 <ul>
-                                    <li><a href="campus-life.html">Student Portal</a></li>
-                                    <li><a href="campus-life.html">Learning Timetables</a></li>
-                                    <li><a href="campus-life.html">E-library</a></li>
-                                    <li><a href="campus-life.html">Dean of Student</a></li>
-                                    <li><a href="campus-life.html">E-Learning Portal</a></li>
-                                    <li><a href="campus-life.html">Exam Timetables</a></li>
+                                    <li><a href="campus-life.html">Accessibility</a></li>
+                                    <li><a href="campus-life.html">Financial Aid</a></li>
+                                    <li><a href="campus-life.html">Food Services</a></li>
+                                    <li><a href="campus-life.html">Housing</a></li>
+                                    <li><a href="campus-life.html">Information Technologies</a></li>
+                                    <li><a href="campus-life.html">Student Life</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-sm-6">
+                        <div class="footer-widjet">
+                            <h3>Our Campus</h3>
+                            <div class="list">
+                                <ul>
+                                    <li><a href="campus-life.html">Acedemic</a></li>
+                                    <li><a href="campus-life.html">Planning & Administration</a></li>
+                                    <li><a href="campus-life.html">Campus Safety</a></li>
+                                    <li><a href="campus-life.html">Office of the Chancellor</a></li>
+                                    <li><a href="campus-life.html">Facility Services</a></li>
+                                    <li><a href="campus-life.html">Human Resources</a></li>
                                 </ul>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-2 col-sm-6">
                         <div class="footer-widjet">
-                            <h3>Contact Us</h3>
+                            <h3>Academics</h3>
                             <div class="list">
                                 <ul>
-                                    <li><a href="mailto:karumotti@gmail.com" class="text-white"> Email: karumotti@gmail.com</a></li>
-                                    <li> <a href="academics.html">Tel: +254 705 636443</a></li>
-                                    <li><p class="text-white">P.O BOX 276-60602 KIANJAI</p></li>
-                                    <li><li><p class="text-white">Website: www.karumotti.ac.ke</p></li>
-                                    <li>
-                                        <!-- Social Media Links -->
-                                        <a href="https://www.facebook.com" target="_blank"><i class="ri-facebook-fill"></i></a>&nbsp;
-                                        <a href="https://www.twitter.com" target="_blank"><i class="ri-twitter-fill"></i></a>&nbsp;
-                                        <a href="https://instagram.com/?lang=en" target="_blank"><i class="ri-instagram-line"></i></a>&nbsp;
-                                        <a href="https://linkedin.com/?lang=en" target="_blank"><i class="ri-linkedin-fill"></i></a></li>
+                                    <li><a href="academics.html">Canvas</a></li>
+                                    <li><a href="academics.html">Catalyst</a></li>
+                                    <li><a href="academics.html">Library</a></li>
+                                    <li><a href="academics.html">Time Schedule</a></li>
+                                    <li><a href="academics.html">Apply For Admissions</a></li>
+                                    <li><a href="academics.html">Pay My Tuition</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -416,10 +622,27 @@
                 <div class="copyright">
                     <div class="row">
                         <div class="col-lg-6 col-md-4">
+                            <div class="social-content">
+                                <ul>
+                                    <li><span>Follow Us On</span></li>
+                                    <li>
+                                        <a href="https://www.facebook.com" target="_blank"><i class="ri-facebook-fill"></i></a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.twitter.com" target="_blank"><i class="ri-twitter-fill"></i></a>
+                                    </li>
+                                    <li>
+                                        <a href="https://instagram.com/?lang=en" target="_blank"><i class="ri-instagram-line"></i></a>
+                                    </li>
+                                    <li>
+                                        <a href="https://linkedin.com/?lang=en" target="_blank"><i class="ri-linkedin-fill"></i></a>
+                                    </li>
+                                </ul>
+                            </div>
                         </div>
-                        <div class="col-lg-6 col-md-8 text-center">
-                            <div class="text-center text-white">
-                                <p class="text-white">© Copyright 2022 KARUMO TTI | ALL RIGHTS RESERVED</p>
+                        <div class="col-lg-6 col-md-8">
+                            <div class="copy">
+                                <p>© Sanu is Proudly Owned by <a href="https://hibootstrap.com/" target="_blank">HiBootstrap</a></p>
                             </div>
                         </div>
                     </div>
@@ -436,30 +659,30 @@
         <!-- End Go Top Area -->
         
         <!-- Jquery js -->
-        <script src="../assets/js/jquery.min.js"></script>
+        <script src="assets/js/jquery.min.js"></script>
         <!-- Bootstrap bundle js -->
-        <script src="../assets/js/bootstrap.bundle.min.js"></script>
+        <script src="assets/js/bootstrap.bundle.min.js"></script>
         <!-- Meanmenu js -->
-        <script src="../assets/js/jquery.meanmenu.js"></script>
+        <script src="assets/js/jquery.meanmenu.js"></script>
         <!-- Owl Carosel js -->
-        <script src="../assets/js/owl.carousel.min.js"></script>
+        <script src="assets/js/owl.carousel.min.js"></script>
         <!-- Owl Carosel Thumbs js -->
-        <script src="../assets/js/carousel-thumbs.min.js"></script>
+        <script src="assets/js/carousel-thumbs.min.js"></script>
         <!-- Magnific popup js -->
-        <script src="../assets/js/jquery.magnific-popup.js"></script>
+        <script src="assets/js/jquery.magnific-popup.js"></script>
         <!-- Aos js -->
-        <script src="../assets/js/aos.js"></script>
+        <script src="assets/js/aos.js"></script>
         <!-- Odometer js -->    
-        <script src="../assets/js/odometer.min.js"></script>
+        <script src="assets/js/odometer.min.js"></script>
         <!-- Appear js -->  
-        <script src="../assets/js/appear.min.js"></script> 
+        <script src="assets/js/appear.min.js"></script> 
         <!-- Form Validator js -->    
-        <script src="../assets/js/form-validator.min.js"></script>
+        <script src="assets/js/form-validator.min.js"></script>
         <!-- Contact Form Script js -->    
-        <script src="../assets/js/contact-form-script.js"></script>
+        <script src="assets/js/contact-form-script.js"></script>
         <!-- Ajaxchimp js -->    
-        <script src="../assets/js/ajaxchimp.min.js"></script>
+        <script src="assets/js/ajaxchimp.min.js"></script>
         <!--Custom js-->
-        <script src="../assets/js/custom.js"></script>
+        <script src="assets/js/custom.js"></script>
     </body>
 </html>

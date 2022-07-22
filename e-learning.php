@@ -6,31 +6,31 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
         <!--Bootstrap Css-->
-        <link rel="stylesheet" href="../assets/css/bootstrap.min.css">
+        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
         <!--Meanmenu.css-->
-        <link rel="stylesheet" href="../assets/css/meanmenu.css">
+        <link rel="stylesheet" href="assets/css/meanmenu.css">
         <!--Owl carousel-->
-        <link rel="stylesheet" href="../assets/css/owl.carousel.min.css">
+        <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
         <!--Owl Theme-->
-        <link rel="stylesheet" href="../assets/css/owl.theme.default.min.css">
+        <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
         <!--Magnific-popup-->
-        <link rel="stylesheet" href="../assets/css/magnific-popup.css">
+        <link rel="stylesheet" href="assets/css/magnific-popup.css">
         <!--Flaticon-->
-        <link rel="stylesheet" href="../assets/css/flaticon.css">
+        <link rel="stylesheet" href="assets/css/flaticon.css">
         <!--Remixicon-->
-        <link rel="stylesheet" href="../assets/css/remixicon.css">
+        <link rel="stylesheet" href="assets/css/remixicon.css">
         <!--Odometer-->
-        <link rel="stylesheet" href="../assets/css/odometer.min.css">
+        <link rel="stylesheet" href="assets/css/odometer.min.css">
         <!--Aos css-->
-        <link rel="stylesheet" href="../assets/css/aos.css">
+        <link rel="stylesheet" href="assets/css/aos.css">
         <!--Style css-->
-        <link rel="stylesheet" href="../assets/css/style.css">
+        <link rel="stylesheet" href="assets/css/style.css">
         <!--Dark css-->
-        <link rel="stylesheet" href="../assets/css/dark.css">
+        <link rel="stylesheet" href="assets/css/dark.css">
         <!--Responsive css-->
-        <link rel="stylesheet" href="../assets/css/responsive.css">
+        <link rel="stylesheet" href="assets/css/responsive.css">
 
-        <link rel="icon" type="image/png" href="../assets/images/favicon.png">
+        <link rel="icon" type="image/png" href="assets/images/favicon.png">
         <title>Sanu - College University HTML Template</title>
     </head>
     <body>
@@ -47,7 +47,7 @@
         <!-- End Preloader Area -->
 
         <!--Strat Top Header Area-->
-    <?php require('../header.php'); ?>
+    <?php require('header.php'); ?>
         <!--End Top Header Area-->
 
         <!-- Start Navbar Area --> 
@@ -436,30 +436,30 @@
         <!-- End Go Top Area -->
         
         <!-- Jquery js -->
-        <script src="../assets/js/jquery.min.js"></script>
+        <script src="assets/js/jquery.min.js"></script>
         <!-- Bootstrap bundle js -->
-        <script src="../assets/js/bootstrap.bundle.min.js"></script>
+        <script src="assets/js/bootstrap.bundle.min.js"></script>
         <!-- Meanmenu js -->
-        <script src="../assets/js/jquery.meanmenu.js"></script>
+        <script src="assets/js/jquery.meanmenu.js"></script>
         <!-- Owl Carosel js -->
-        <script src="../assets/js/owl.carousel.min.js"></script>
+        <script src="assets/js/owl.carousel.min.js"></script>
         <!-- Owl Carosel Thumbs js -->
-        <script src="../assets/js/carousel-thumbs.min.js"></script>
+        <script src="assets/js/carousel-thumbs.min.js"></script>
         <!-- Magnific popup js -->
-        <script src="../assets/js/jquery.magnific-popup.js"></script>
+        <script src="assets/js/jquery.magnific-popup.js"></script>
         <!-- Aos js -->
-        <script src="../assets/js/aos.js"></script>
+        <script src="assets/js/aos.js"></script>
         <!-- Odometer js -->    
-        <script src="../assets/js/odometer.min.js"></script>
+        <script src="assets/js/odometer.min.js"></script>
         <!-- Appear js -->  
-        <script src="../assets/js/appear.min.js"></script> 
+        <script src="assets/js/appear.min.js"></script> 
         <!-- Form Validator js -->    
-        <script src="../assets/js/form-validator.min.js"></script>
+        <script src="assets/js/form-validator.min.js"></script>
         <!-- Contact Form Script js -->    
-        <script src="../assets/js/contact-form-script.js"></script>
+        <script src="assets/js/contact-form-script.js"></script>
         <!-- Ajaxchimp js -->    
-        <script src="../assets/js/ajaxchimp.min.js"></script>
+        <script src="assets/js/ajaxchimp.min.js"></script>
         <!--Custom js-->
-        <script src="../assets/js/custom.js"></script>
+        <script src="assets/js/custom.js"></script>
     </body>
 </html>
