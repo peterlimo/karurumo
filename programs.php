@@ -31,7 +31,7 @@
         <link rel="stylesheet" href="assets/css/responsive.css">
 
         <link rel="icon" type="image/png" href="assets/images/favicon.png">
-        <title>Sanu - College University HTML Template</title>
+        <title>KARUMO TTI</title>
     </head>
     <body>
         <!-- Start Preloader Area -->
@@ -48,12 +48,13 @@
 
         <!--Strat Top Header Area-->
         <div class="top-header-area">
-            <div class="container">
+            <div class="container-fluid">
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-6">
-                        <div class="header-left-content">
-                            <p>Get the latest updates and Sanu's response to COVID-19</p>
-                        </div>
+                    <div class="header-left-content text-white">
+                  <span><a href="mailto:karumotti@gmail.com" class="text-white">Email: karumotti@gmail.com</a></span> &nbsp; &nbsp;
+                  <span><a href="tel:+254 722 310 358" class="text-white">Tel: +254 705 636443</a></span>
+          </div>
                     </div>
                     <div class="col-lg-6 col-md-6">                                        
                         <div class="header-right-content">
