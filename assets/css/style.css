@@ -127,7 +127,7 @@ img {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #111d5e;
+  color: #222431;
   font-family: "Source Serif Pro", serif;
   font-weight: 700;
 }
@@ -157,7 +157,7 @@ a {
 
 .form-control {
   height: 55px;
-  border: 1px solid rgba(89, 90, 89, 0.25);
+  border: 1px solid rgba(89, 90, 89, 0.1);
   padding-left: 15px;
 }
 
