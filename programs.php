@@ -614,30 +614,30 @@
         <!-- End Go Top Area -->
         
         <!-- Jquery js -->
-        <script src="../assets/js/jquery.min.js"></script>
+        <script src="assets/js/jquery.min.js"></script>
         <!-- Bootstrap bundle js -->
-        <script src="../assets/js/bootstrap.bundle.min.js"></script>
+        <script src="assets/js/bootstrap.bundle.min.js"></script>
         <!-- Meanmenu js -->
-        <script src="../assets/js/jquery.meanmenu.js"></script>
+        <script src="assets/js/jquery.meanmenu.js"></script>
         <!-- Owl Carosel js -->
-        <script src="../assets/js/owl.carousel.min.js"></script>
+        <script src="assets/js/owl.carousel.min.js"></script>
         <!-- Owl Carosel Thumbs js -->
-        <script src="../assets/js/carousel-thumbs.min.js"></script>
+        <script src="assets/js/carousel-thumbs.min.js"></script>
         <!-- Magnific popup js -->
-        <script src="../assets/js/jquery.magnific-popup.js"></script>
+        <script src="assets/js/jquery.magnific-popup.js"></script>
         <!-- Aos js -->
-        <script src="../assets/js/aos.js"></script>
+        <script src="assets/js/aos.js"></script>
         <!-- Odometer js -->    
-        <script src="../assets/js/odometer.min.js"></script>
+        <script src="assets/js/odometer.min.js"></script>
         <!-- Appear js -->  
-        <script src="../assets/js/appear.min.js"></script> 
+        <script src="assets/js/appear.min.js"></script> 
         <!-- Form Validator js -->    
-        <script src="../assets/js/form-validator.min.js"></script>
+        <script src="assets/js/form-validator.min.js"></script>
         <!-- Contact Form Script js -->    
-        <script src="../assets/js/contact-form-script.js"></script>
+        <script src="assets/js/contact-form-script.js"></script>
         <!-- Ajaxchimp js -->    
-        <script src="../assets/js/ajaxchimp.min.js"></script>
+        <script src="assets/js/ajaxchimp.min.js"></script>
         <!--Custom js-->
-        <script src="../assets/js/custom.js"></script>
+        <script src="assets/js/custom.js"></script>
     </body>
 </html>
