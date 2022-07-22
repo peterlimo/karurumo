@@ -4376,6 +4376,30 @@
         .et_pb_text_inner {
             position: relative
         }
+
+        body {
+            font-size: 15px;
+            font-weight: 400;
+            line-height: 1.45;
+            color: #1e1e1e;
+        }
+
+        p {
+            margin: 0;
+            padding: 0 0 15px 0;
+        }
+
+        .content {
+            width: 90%;
+            margin: auto;
+            padding: 40px 40px 0 30px;
+            text-align: justify;
+        }
+
+        .bd-container-inner h2 {
+            width: 50% !important;
+            margin-left: 70px;
+        }
     </style>
 </head>
 
@@ -4397,7 +4421,7 @@
         <div class="container-fluid">
             <div class="row align-items-center">
                 <div class="col-lg-6 col-md-6">
-                    <div class="header-left-content class=" text-white"">
+                    <div class="header-left-content" class="text-white">
                         <span><a href="mailto:karumotti@gmail.com" class="text-white">Email: karumotti@gmail.com</a></span> &nbsp; &nbsp;
                         <span><a href="tel:+254 722 310 358" class="text-white">Tel: +254 705 636443</a></span>
                     </div>
@@ -4541,15 +4565,15 @@
 
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
-                                        <a href="./students/timetable.php" class="nav-link">Timetables</a>
+                                        <a href="timetable.php" class="nav-link">Timetables</a>
                                     </li>
 
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">Term Dates</a>
+                                        <a href="termdates.php" class="nav-link">Term Dates</a>
                                     </li>
 
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">Dean of students</a>
+                                        <a href="deansofstudent.php" class="nav-link">Dean of students</a>
                                     </li>
 
                                     <li class="nav-item">
@@ -4557,15 +4581,15 @@
                                     </li>
 
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">Guidance and counselling</a>
+                                        <a href="guidance.php" class="nav-link">Guidance and counselling</a>
                                     </li>
 
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">Downloads</a>
+                                        <a href="timetable.php" class="nav-link">Downloads</a>
                                     </li>
 
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">Prospective students</a>
+                                        <a href="prospectives.php" class="nav-link">Prospective students</a>
                                     </li>
                                     <li class="nav-item">
                                         <a href="#" class="nav-link">Apply</a>

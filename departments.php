@@ -6,32 +6,32 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
         <!--Bootstrap Css-->
-        <link rel="stylesheet" href="../assets/css/bootstrap.min.css">
+        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
         <!--Meanmenu.css-->
-        <link rel="stylesheet" href="../assets/css/meanmenu.css">
+        <link rel="stylesheet" href="assets/css/meanmenu.css">
         <!--Owl carousel-->
-        <link rel="stylesheet" href="../assets/css/owl.carousel.min.css">
+        <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
         <!--Owl Theme-->
-        <link rel="stylesheet" href="../assets/css/owl.theme.default.min.css">
+        <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
         <!--Magnific-popup-->
-        <link rel="stylesheet" href="../assets/css/magnific-popup.css">
+        <link rel="stylesheet" href="assets/css/magnific-popup.css">
         <!--Flaticon-->
-        <link rel="stylesheet" href="../assets/css/flaticon.css">
+        <link rel="stylesheet" href="assets/css/flaticon.css">
         <!--Remixicon-->
-        <link rel="stylesheet" href="../assets/css/remixicon.css">
+        <link rel="stylesheet" href="assets/css/remixicon.css">
         <!--Odometer-->
-        <link rel="stylesheet" href="../assets/css/odometer.min.css">
+        <link rel="stylesheet" href="assets/css/odometer.min.css">
         <!--Aos css-->
-        <link rel="stylesheet" href="../assets/css/aos.css">
+        <link rel="stylesheet" href="assets/css/aos.css">
         <!--Style css-->
-        <link rel="stylesheet" href="../assets/css/style.css">
+        <link rel="stylesheet" href="assets/css/style.css">
         <!--Dark css-->
-        <link rel="stylesheet" href="../assets/css/dark.css">
+        <link rel="stylesheet" href="assets/css/dark.css">
         <!--Responsive css-->
-        <link rel="stylesheet" href="../assets/css/responsive.css">
+        <link rel="stylesheet" href="assets/css/responsive.css">
 
-        <link rel="icon" type="image/png" href="../assets/images/favicon.png">
-        <title>Sanu - College University HTML Template</title>
+        <link rel="icon" type="image/png" href="assets/images/favicon.png">
+        <title>Karumo Technical Training Institute</title>
     </head>
     <body>
         <!-- Start Preloader Area -->
@@ -47,11 +47,11 @@
         <!-- End Preloader Area -->
 
         <!--Strat Top Header Area-->
-    <?php require('../header.php'); ?>
+    
         <!--End Top Header Area-->
 
         <!-- Start Navbar Area --> 
-       
+       <?php require('header.php'); ?>
         <!-- End Navbar Area -->
 
         <!-- Sidebar Modal -->
@@ -149,8 +149,8 @@
         <div class="page-banner-area bg-1">
             <div class="container">
                 <div class="page-banner-content">
-                    <h1>Karumo e-learning</h1>
-               
+                    <h1>Departments</h1>
+                  
                 </div>
             </div>
         </div>
@@ -159,24 +159,18 @@
         <!--Start Academics Area-->
         <div class="academics-area pt-100 pb-70">
             <div class="container">
-              <div class="top-content mb-3">
-                <h2>Our E-learning Platform</h2>
-                  <p>Welcome to the KTTC E-Learning, if you are looking for an institution that will enable you improve the lives of others, then KMTC is the place you want to launch your career in any field of question</p>
-                   <p>Enroll in one of the wide range of our courses, from certificate, diploma to higher diploma, reflects the institution’s responsiveness to the needs of our country. The ever-rising interest by Kenyans to study at the College is a demonstration of the trust bestowed on us</p>
-                    </div>
                 <div class="row">
                     <div class="col-lg-9">
                         <div class="academics-left-content">
                             <div class="row justify-content-center">
-                                <h2>Our  Courses</h2>
                                 <div class="col-lg-4 col-sm-6">
                                     <div class="single-academics-card3">
                                         <div class="icon">
                                             <i class="flaticon-pc"></i>
                                         </div>
-                                        <a href="academics-details.html"><h3>Computer Science</h3></a>
+                                        <a href="./department-details.php"><h3>Department of agriculture</h3></a>
                                         <p>Lorem ipsum dolor sit amet ctetur adipiscing elit</p>
-                                        <a href="academics-details.html" class="read-more-btn">Read More<i class="flaticon-next"></i></a>
+                                        <a href="./department-details.html" class="read-more-btn">Read More<i class="flaticon-next"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-sm-6">
@@ -184,9 +178,9 @@
                                         <div class="icon">
                                             <i class="flaticon-art"></i>
                                         </div>
-                                        <a href="academics-details.html"><h3>Art & Design</h3></a>
+                                        <a href="./department-details.php"><h3>Department of electrical and electronics</h3></a>
                                         <p>Lorem ipsum dolor sit amet ctetur adipiscing elit</p>
-                                        <a href="academics-details.html" class="read-more-btn">Read More<i class="flaticon-next"></i></a>
+                                        <a href="./department-details.html" class="read-more-btn">Read More<i class="flaticon-next"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-sm-6">
@@ -194,9 +188,9 @@
                                         <div class="icon">
                                             <i class="flaticon-auction"></i>
                                         </div>
-                                        <a href="academics-details.html"><h3>Law Department</h3></a>
+                                        <a href="./department-details.php"><h3>Department of building and civil engineering</h3></a>
                                         <p>Lorem ipsum dolor sit amet ctetur adipiscing elit</p>
-                                        <a href="academics-details.html" class="read-more-btn">Read More<i class="flaticon-next"></i></a>
+                                        <a href="./department-details.html" class="read-more-btn">Read More<i class="flaticon-next"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-sm-6">
@@ -204,9 +198,9 @@
                                         <div class="icon">
                                             <i class="flaticon-profile"></i>
                                         </div>
-                                        <a href="academics-details.html"><h3>Management Business</h3></a>
+                                        <a href="./department-details.php"><h3>Department of business studies</h3></a>
                                         <p>Lorem ipsum dolor sit amet ctetur adipiscing elit</p>
-                                        <a href="academics-details.html" class="read-more-btn">Read More<i class="flaticon-next"></i></a>
+                                        <a href="./department-details.html" class="read-more-btn">Read More<i class="flaticon-next"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-sm-6">
@@ -214,9 +208,9 @@
                                         <div class="icon">
                                             <i class="flaticon-help"></i>
                                         </div>
-                                        <a href="academics-details.html"><h3>Information Technology</h3></a>
+                                        <a href="./department-details.php"><h3>Information communication technology</h3></a>
                                         <p>Lorem ipsum dolor sit amet ctetur adipiscing elit</p>
-                                        <a href="academics-details.html" class="read-more-btn">Read More<i class="flaticon-next"></i></a>
+                                        <a href="./department-details.html" class="read-more-btn">Read More<i class="flaticon-next"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-sm-6">
@@ -224,41 +218,12 @@
                                         <div class="icon">
                                             <i class="flaticon-heartbeat"></i>
                                         </div>
-                                        <a href="academics-details.html"><h3>Health Care</h3></a>
+                                        <a href="./department-details.php"><h3>Department of institutional management and cosmetology</h3></a>
                                         <p>Lorem ipsum dolor sit amet ctetur adipiscing elit</p>
-                                        <a href="academics-details.html" class="read-more-btn">Read More<i class="flaticon-next"></i></a>
+                                        <a href="./department-details.php" class="read-more-btn">Read More<i class="flaticon-next"></i></a>
                                     </div>
                                 </div>
-                                <div class="col-lg-4 col-sm-6">
-                                    <div class="single-academics-card3">
-                                        <div class="icon">
-                                            <i class="flaticon-blueprint"></i>
-                                        </div>
-                                        <a href="academics-details.html"><h3>Architecture</h3></a>
-                                        <p>Lorem ipsum dolor sit amet ctetur adipiscing elit</p>
-                                        <a href="academics-details.html" class="read-more-btn">Read More<i class="flaticon-next"></i></a>
-                                    </div>
-                                </div>
-                                <div class="col-lg-4 col-sm-6">
-                                    <div class="single-academics-card3">
-                                        <div class="icon">
-                                            <i class="flaticon-connection"></i>
-                                        </div>
-                                        <a href="academics-details.html"><h3>Engineering</h3></a>
-                                        <p>Lorem ipsum dolor sit amet ctetur adipiscing elit</p>
-                                        <a href="academics-details.html" class="read-more-btn">Read More<i class="flaticon-next"></i></a>
-                                    </div>
-                                </div>
-                                <div class="col-lg-4 col-sm-6">
-                                    <div class="single-academics-card3">
-                                        <div class="icon">
-                                            <i class="flaticon-money-exchange"></i>
-                                        </div>
-                                        <a href="academics-details.html"><h3>Law & Economy</h3></a>
-                                        <p>Lorem ipsum dolor sit amet ctetur adipiscing elit</p>
-                                        <a href="academics-details.html" class="read-more-btn">Read More<i class="flaticon-next"></i></a>
-                                    </div>
-                                </div>
+                   
                             </div>
                         </div>
                     </div>
@@ -288,6 +253,12 @@
                             <div class="location-type">
                                 <h3>Location Type</h3>
                                 <div class="form-check">
+                                    <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
+                                    <label class="form-check-label" for="flexCheckDefault">
+                                        On Campus
+                                    </label>
+                                </div>
+                                <div class="form-check">
                                     <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked" checked>
                                     <label class="form-check-label" for="flexCheckChecked">
                                         Online
@@ -308,18 +279,6 @@
                                     Undergraduate
                                 </label>
                                 </div>
-                                <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked1" checked>
-                                <label class="form-check-label" for="flexCheckChecked1">
-                                    Diploma
-                                </label>
-                                </div>
-                                <div class="form-check">
-                                <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked1" checked>
-                                <label class="form-check-label" for="flexCheckChecked1">
-                                    Certificate
-                                </label>
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -327,6 +286,7 @@
             </div>
         </div>
         <!--End Academic Area-->
+
         <!--Start Footer Area-->
         <div class="footer-area pt-100 pb-70">
             <div class="container">
@@ -436,30 +396,30 @@
         <!-- End Go Top Area -->
         
         <!-- Jquery js -->
-        <script src="../assets/js/jquery.min.js"></script>
+        <script src="assets/js/jquery.min.js"></script>
         <!-- Bootstrap bundle js -->
-        <script src="../assets/js/bootstrap.bundle.min.js"></script>
+        <script src="assets/js/bootstrap.bundle.min.js"></script>
         <!-- Meanmenu js -->
-        <script src="../assets/js/jquery.meanmenu.js"></script>
+        <script src="assets/js/jquery.meanmenu.js"></script>
         <!-- Owl Carosel js -->
-        <script src="../assets/js/owl.carousel.min.js"></script>
+        <script src="assets/js/owl.carousel.min.js"></script>
         <!-- Owl Carosel Thumbs js -->
-        <script src="../assets/js/carousel-thumbs.min.js"></script>
+        <script src="assets/js/carousel-thumbs.min.js"></script>
         <!-- Magnific popup js -->
-        <script src="../assets/js/jquery.magnific-popup.js"></script>
+        <script src="assets/js/jquery.magnific-popup.js"></script>
         <!-- Aos js -->
-        <script src="../assets/js/aos.js"></script>
+        <script src="assets/js/aos.js"></script>
         <!-- Odometer js -->    
-        <script src="../assets/js/odometer.min.js"></script>
+        <script src="assets/js/odometer.min.js"></script>
         <!-- Appear js -->  
-        <script src="../assets/js/appear.min.js"></script> 
+        <script src="assets/js/appear.min.js"></script> 
         <!-- Form Validator js -->    
-        <script src="../assets/js/form-validator.min.js"></script>
+        <script src="assets/js/form-validator.min.js"></script>
         <!-- Contact Form Script js -->    
-        <script src="../assets/js/contact-form-script.js"></script>
+        <script src="assets/js/contact-form-script.js"></script>
         <!-- Ajaxchimp js -->    
-        <script src="../assets/js/ajaxchimp.min.js"></script>
+        <script src="assets/js/ajaxchimp.min.js"></script>
         <!--Custom js-->
-        <script src="../assets/js/custom.js"></script>
+        <script src="assets/js/custom.js"></script>
     </body>
 </html>

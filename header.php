@@ -82,18 +82,18 @@
 
                   <ul class="dropdown-menu">
                     <li class="nav-item">
-                      <a href="./academics/departments.php" class="nav-link">Departments</a>
+                      <a href="departments.php" class="nav-link">Departments</a>
                     </li>
 
                     <li class="nav-item">
-                      <a href="./academics/programs.php" class="nav-link">Programs</a>
+                      <a href="programs.php" class="nav-link">Programs</a>
                     </li>
                     <li class="nav-item">
-                      <a href="./academics/e-learning.php" class="nav-link">E-Learning</a>
+                      <a href="e-learning.php" class="nav-link">E-Learning</a>
                     </li>
-                    <li class="nav-item">
+                   <!--  <li class="nav-item">
                       <a href="./academics/library.php" class="nav-link">Library</a>
-                    </li>
+                    </li> -->
                   </ul>
                 </li>
 
