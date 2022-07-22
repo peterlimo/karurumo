@@ -11,7 +11,7 @@
                         <div class="et_post_meta_wrapper">
                             <h1 class="entry-title">Teaching Timetables</h1>
 
-                            <p class="post-meta"> by <span class="author vcard"><a href="https://www.must.ac.ke/author/akiogora/" title="Posts by Editor" rel="author">Editor</a></span> | <span class="published">Jul 17, 2019</span> | <a href="https://www.must.ac.ke/category/teaching-timetable/" rel="category tag">Teaching Timetable</a> | <span class="comments-number"><a href="https://www.must.ac.ke/teaching-timetables/#respond">69 comments</a></span></p>
+                            <p class="post-meta"> by <span class="author vcard"><a href="https://" title="Posts by Editor" rel="author">Editor</a></span> | <span class="published">Jul 17, 2019</span> | <a href="https://www.must.ac.ke/category/teaching-timetable/" rel="category tag">Teaching Timetable</a> | <span class="comments-number"><a href="https://www.must.ac.ke/teaching-timetables/#respond">69 comments</a></span></p>
                         </div>
 
                         <div class="entry-content">
@@ -82,29 +82,29 @@
 
                                     </div>
                                     <h4><span style="color: #000000;">July-November, 2022 Teaching Timetable (Updated 8th July, 2022)</span></h4>
-                                    <p><a href="https://www.must.ac.ke/wp-content/uploads/2019/07/SAFS-Jul-Nov-22-Teaching-TT-1.pdf" rel="attachment wp-att-21125">SAFS Jul-Nov 22 Teaching TT</a></p>
-                                    <p><a href="https://www.must.ac.ke/wp-content/uploads/2019/07/SBE-Jul-Nov-22-Teaching-TT-1.pdf" rel="attachment wp-att-21126">SBE Jul-Nov 22 Teaching TT</a></p>
-                                    <p><a href="https://www.must.ac.ke/wp-content/uploads/2019/07/SCI-Jul-Nov-22-Teaching-TT-1.pdf" rel="attachment wp-att-21127">SCI Jul-Nov 22 Teaching TT</a></p>
-                                    <p><a href="https://www.must.ac.ke/wp-content/uploads/2019/07/SEA-Jul-Nov-22-Teaching-TT-1.pdf" rel="attachment wp-att-21128">SEA Jul-Nov 22 Teaching TT</a></p>
-                                    <p><a href="https://www.must.ac.ke/wp-content/uploads/2019/07/SED-Jul-Nov-22-Teaching-TT-1.pdf" rel="attachment wp-att-21129">SED Jul-Nov 22 Teaching TT</a></p>
-                                    <p><a href="https://www.must.ac.ke/wp-content/uploads/2019/07/SHS-Jul-Nov-22-Teaching-TT-1.pdf" rel="attachment wp-att-21130">SHS Jul-Nov 22 Teaching TT</a></p>
-                                    <p><a href="https://www.must.ac.ke/wp-content/uploads/2019/07/SON-Jul-Nov-22-Teaching-TT.pdf" rel="attachment wp-att-21131">SON Jul-Nov 22 Teaching TT</a></p>
-                                    <p><a href="https://www.must.ac.ke/wp-content/uploads/2019/07/SPAS-Jul-Nov-22-Teaching-TT-1.pdf" rel="attachment wp-att-21132">SPAS Jul-Nov 22 Teaching TT</a></p>
+                                    <p><a href=""../SAFS-Jul-Nov-22-Teaching-TT-1.pdf" rel="attachment wp-att-21125">SAFS Jul-Nov 22 Teaching TT</a></p>
+                                    <p><a href=""../SBE-Jul-Nov-22-Teaching-TT-1.pdf" rel="attachment wp-att-21126">SBE Jul-Nov 22 Teaching TT</a></p>
+                                    <p><a href=""../SCI-Jul-Nov-22-Teaching-TT-1.pdf" rel="attachment wp-att-21127">SCI Jul-Nov 22 Teaching TT</a></p>
+                                    <p><a href=""../SEA-Jul-Nov-22-Teaching-TT-1.pdf" rel="attachment wp-att-21128">SEA Jul-Nov 22 Teaching TT</a></p>
+                                    <p><a href=""../SED-Jul-Nov-22-Teaching-TT-1.pdf" rel="attachment wp-att-21129">SED Jul-Nov 22 Teaching TT</a></p>
+                                    <p><a href=""../SHS-Jul-Nov-22-Teaching-TT-1.pdf" rel="attachment wp-att-21130">SHS Jul-Nov 22 Teaching TT</a></p>
+                                    <p><a href=""../SON-Jul-Nov-22-Teaching-TT.pdf" rel="attachment wp-att-21131">SON Jul-Nov 22 Teaching TT</a></p>
+                                    <p><a href=""../SPAS-Jul-Nov-22-Teaching-TT-1.pdf" rel="attachment wp-att-21132">SPAS Jul-Nov 22 Teaching TT</a></p>
                                     <h4>&nbsp;</h4>
                                     <h4><span style="color: #000000;">May-September, 2022 Teaching Timetable (Updated 13th May, 2022)</span></h4>
-                                    <p><a href="https://www.must.ac.ke/wp-content/uploads/2019/07/13-May-Sept-22-Marimba-Teaching-Timetable.pdf" rel="attachment wp-att-20601">13 May-Sept 22 Marimba Teaching Timetable</a></p>
-                                    <p><a href="https://www.must.ac.ke/wp-content/uploads/2019/07/13-May-Sept-22-SAFS-Teaching-Timetable.pdf" rel="attachment wp-att-20602">13 May-Sept 22 SAFS Teaching Timetable</a></p>
-                                    <p><a href="https://www.must.ac.ke/wp-content/uploads/2019/07/13-May-Sept-22-SCI-Teaching-Timetable.pdf" rel="attachment wp-att-20603">13 May-Sept 22 SCI Teaching Timetable</a></p>
-                                    <p><a href="https://www.must.ac.ke/wp-content/uploads/2019/07/13-May-Sept-22-SEA-Teaching-Timetable.pdf" rel="attachment wp-att-20604">13 May-Sept 22 SEA Teaching Timetable</a></p>
-                                    <p><a href="https://www.must.ac.ke/wp-content/uploads/2019/07/13-May-Sept-22-SHS-Teaching-Timetable.pdf" rel="attachment wp-att-20605">13 May-Sept 22 SHS Teaching Timetable</a></p>
-                                    <p><a href="https://www.must.ac.ke/wp-content/uploads/2019/07/13-May-Sept-22-SPAS-Teaching-Timetable.pdf" rel="attachment wp-att-20606">13 May-Sept 22 SPAS Teaching Timetable</a></p>
-                                    <p><a href="https://www.must.ac.ke/wp-content/uploads/2019/07/13-May-Sept-22-Town-Campus-Full-Time-Teaching-Timetable.pdf" rel="attachment wp-att-20607">13 May-Sept 22 Town Campus Full Time Teaching Timetable</a></p>
-                                    <p><a href="https://www.must.ac.ke/wp-content/uploads/2019/07/13-May-Sept-22-Town-Campus-Weekend-Teaching-Timetable.pdf" rel="attachment wp-att-20608">13 May-Sept 22 Town Campus Weekend Teaching Timetable</a></p>
+                                    <p><a href=""../13-May-Sept-22-Marimba-Teaching-Timetable.pdf" rel="attachment wp-att-20601">13 May-Sept 22 Marimba Teaching Timetable</a></p>
+                                    <p><a href=""../13-May-Sept-22-SAFS-Teaching-Timetable.pdf" rel="attachment wp-att-20602">13 May-Sept 22 SAFS Teaching Timetable</a></p>
+                                    <p><a href=""../13-May-Sept-22-SCI-Teaching-Timetable.pdf" rel="attachment wp-att-20603">13 May-Sept 22 SCI Teaching Timetable</a></p>
+                                    <p><a href=""../13-May-Sept-22-SEA-Teaching-Timetable.pdf" rel="attachment wp-att-20604">13 May-Sept 22 SEA Teaching Timetable</a></p>
+                                    <p><a href=""../13-May-Sept-22-SHS-Teaching-Timetable.pdf" rel="attachment wp-att-20605">13 May-Sept 22 SHS Teaching Timetable</a></p>
+                                    <p><a href=""../13-May-Sept-22-SPAS-Teaching-Timetable.pdf" rel="attachment wp-att-20606">13 May-Sept 22 SPAS Teaching Timetable</a></p>
+                                    <p><a href=""../13-May-Sept-22-Town-Campus-Full-Time-Teaching-Timetable.pdf" rel="attachment wp-att-20607">13 May-Sept 22 Town Campus Full Time Teaching Timetable</a></p>
+                                    <p><a href=""../13-May-Sept-22-Town-Campus-Weekend-Teaching-Timetable.pdf" rel="attachment wp-att-20608">13 May-Sept 22 Town Campus Weekend Teaching Timetable</a></p>
                                     <p>&nbsp;</p>
                                     <h4><span style="color: #000000;">March-July, 2022 Teaching Timetable (Updated 6th April,2022)</span></h4>
-                                    <p><a href="https://www.must.ac.ke/wp-content/uploads/2022/04/School-of-Nursing-March-July-2022-Semester-Teaching-Timetable.pdf" rel="attachment wp-att-20490">School of Nursing March-July 2022 Semester Teaching Timetable</a></p>
-                                    <p><a href="https://www.must.ac.ke/wp-content/uploads/2022/04/Clinical-Medicine-and-Community-Health-March-July-2022-Semester-Teaching-Timetable.pdf" rel="attachment wp-att-20489">Clinical Medicine and Community Health March-July 2022 Semester Teaching Timetable</a></p>
-                                    <p><a href="https://www.must.ac.ke/wp-content/uploads/2019/07/Department-of-Mathematics-March-July-2022-Semester-Teaching-Timetable.pdf" rel="attachment wp-att-20473">Department of Mathematics March-July 2022 Semester Teaching Timetable</a></p>
+                                    <p><a href=""../School-of-Nursing-March-July-2022-Semester-Teaching-Timetable.pdf" rel="attachment wp-att-20490">School of Nursing March-July 2022 Semester Teaching Timetable</a></p>
+                                    <p><a href=""../Clinical-Medicine-and-Community-Health-March-July-2022-Semester-Teaching-Timetable.pdf" rel="attachment wp-att-20489">Clinical Medicine and Community Health March-July 2022 Semester Teaching Timetable</a></p>
+                                    <p><a href=""../Department-of-Mathematics-March-July-2022-Semester-Teaching-Timetable.pdf" rel="attachment wp-att-20473">Department of Mathematics March-July 2022 Semester Teaching Timetable</a></p>
                                     <h4>&nbsp;</h4>
                                     <h4><span style="color: #000000;">January-May, 2022 Teaching Timetable</span></h4>
                                     <p>
